@@ -10,7 +10,7 @@ The accounts in the suspects are just the accounts. we detect their strange beha
 Next step is to detect ARZESHI accounts (check here again for updates)
 
 
-You can find the suspects ([here](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/suspects.md) | [csv](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/suspects.md)
+You can find the suspects ([here](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/suspects.md) | [csv](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/suspects.md))
 
 
 ### Warining
