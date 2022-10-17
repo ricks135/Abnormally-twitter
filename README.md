@@ -29,10 +29,12 @@ You can find the ARZESHI in the below.
 | Markdown                  | CSV                       |  
 |:--------------------------|:--------------------------|
 |[arzeshi_0001.md](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0001.md)| [arzeshi_0001.csv](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0001.csv)|
+|[arzeshi_0002.md](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0002.md)| [arzeshi_0002.csv](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0002.csv)|
+
 
 
 ## UPDATES
-- 9.8k new ARZESHI accounts added
+- 5.8k new ARZESHI accounts added
 
 ## Upcoming
 - More Arzeshi is comming
