@@ -34,7 +34,7 @@ You can find the ARZESHI in the below.
 
 
 ## UPDATES
-- 5.8k new ARZESHI accounts added
+- 37.9k new ARZESHI accounts added
 
 ## Upcoming
 - More Arzeshi is comming
