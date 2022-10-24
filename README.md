@@ -30,14 +30,15 @@ You can find the ARZESHI in the below.
 |:--------------------------|:--------------------------|
 |[arzeshi_0001.md](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0001.md)| [arzeshi_0001.csv](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0001.csv)|
 |[arzeshi_0002.md](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0002.md)| [arzeshi_0002.csv](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0002.csv)|
+|[arzeshi_0003.md](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0003.md)| [arzeshi_0003.csv](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0003.csv)|
 
 
 
 ## UPDATES
-- 37.9k new ARZESHI accounts added
+- 6.5k new ARZESHI accounts added
 
 ## Upcoming
-- More Arzeshi is comming
+- Try to create the adjacency matrix for the collection of data
 
 
 Woman, Life, Freedom \
