@@ -33,16 +33,17 @@ You can find the ARZESHI in the below.
 |[arzeshi_0003.md](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0003.md)| [arzeshi_0003.csv](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0003.csv)|
 |[arzeshi_0004.md](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0004.md)| [arzeshi_0004.csv](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0004.csv)|
 |[arzeshi_0005.md](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0005.md)| [arzeshi_0005.csv](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0005.csv)|
+|[arzeshi_0006.md](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0006.md)| [arzeshi_0006.csv](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0006.csv)|
 
 ## Important note
 - In `arzeshi_0004.csv` in despite of other batches only 19% of them are bots which is very low. So this file could use to detect core network of arzeshies.
 
 
 ## UPDATES
-- 12k new ARZESHI accounts added (9k bots between them)
+- 97k new ARZESHI accounts added (74k bots between them)
 
 ## Upcoming
-- New arzehsi bots
+- Try to make the adjacancey matrix
 
 
 Woman, Life, Freedom \
