@@ -36,11 +36,13 @@ You can find the ARZESHI in the below.
 |[arzeshi_0006.md](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0006.md)| [arzeshi_0006.csv](https://raw.githubusercontent.com/ricks135/Abnormally-twitter/main/arzeshi/arzeshi_0006.csv)|
 
 ## Important note
-- In `arzeshi_0004.csv` in despite of other batches only 19% of them are bots which is very low. So this file could use to detect core network of arzeshies.
+- In `arzeshi_0005.csv` in despite of other batches only 19% of them are bots which is very low. So this file could use to detect core network of arzeshies.
 
+## ADJACENCY
+- This [file](https://drive.google.com/file/d/1H_k32DpD814alkeF39GWOUHBTosmf3dv/view?usp=share_link) contains adjacncy matrix for a network with core of (@hosini5050)[https://twitter.com/intent/user?user_id=1405021081258364929]
 
 ## UPDATES
-- 97k new ARZESHI accounts added (74k bots between them)
+- Adjacency data added
 
 ## Upcoming
 - Try to make the adjacancey matrix
