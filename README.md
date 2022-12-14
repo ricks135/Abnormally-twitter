@@ -39,7 +39,9 @@ You can find the ARZESHI in the below.
 - In `arzeshi_0005.csv` in despite of other batches only 19% of them are bots which is very low. So this file could use to detect core network of arzeshies.
 
 ## ADJACENCY
-- This [file](https://drive.google.com/file/d/1H_k32DpD814alkeF39GWOUHBTosmf3dv/view?usp=share_link) contains adjacncy matrix for a network with core of (@hosini5050)[https://twitter.com/intent/user?user_id=1405021081258364929]
+You have access to folder [here](https://drive.google.com/drive/folders/1hvQ6dR25o-xNKL6Hu29dF8WhfcBxJN6T?usp=share_link)
+- This [file](https://drive.google.com/file/d/1H_k32DpD814alkeF39GWOUHBTosmf3dv/view?usp=share_link) contains adjacncy matrix for a network with core of [@hosini5050](https://twitter.com/intent/user?user_id=1405021081258364929)
+- This [file](https://drive.google.com/file/d/1ZGClq-VpfiABO4FZ80rmLhxILXKdS-dE/view?usp=share_link) contains adjacncy matrix for a network with core of [@sobhan_70](https://twitter.com/intent/user?user_id=1357059241882882049)
 
 ## UPDATES
 - Adjacency data added
